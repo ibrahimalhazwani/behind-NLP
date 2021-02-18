@@ -1,1 +1,1 @@
-
+The topic for this week’s homework is the perceptron algorithm for sentiment classification of tweets. You will get a data set of tweets and some starter code. We ask you to implement the inference and estimation algorithms for basic perceptron, averaged perceptron and the margin-infused relaxed algorithm (MIRA), which is a variant of the standard perceptron al- gorithm.
