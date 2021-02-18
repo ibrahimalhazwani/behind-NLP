@@ -1,3 +1,3 @@
 # behind-NLP
 
-Weekly assignments to understand and build the most common algorithms used in NLP applications.
+On my exchange semester at the University of Helsinki (Finland) I have attended a course called "Models and algorithms for NLP application". The course was structured that each week a new model or algorithms was taught followed by an assignment. This repository contains all the assignment done while following the course.
