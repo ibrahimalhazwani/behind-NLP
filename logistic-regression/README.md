@@ -1,0 +1,1 @@
+The topic for this week’s homework is the logistic regression model for sentiment classifica- tion of tweets. You will use the same data set as for the previous homework. You will get some starter code. We ask you to implement the inference and estimation algorithms for logistic regres- sion.
